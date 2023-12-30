@@ -15,8 +15,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
 ```python
-#Developed by: B krishnakanth
-#reg no:23006762
+#Developed by: Suriya prakash.S
+#reg no:23013599
 
 import numpy as np
 import matplotlib.pyplot as py
